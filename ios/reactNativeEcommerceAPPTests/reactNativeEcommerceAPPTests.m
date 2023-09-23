@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface ReactNative_CRUDTests : XCTestCase
+@interface reactNativeEcommerceAPPTests : XCTestCase
 
 @end
 
-@implementation ReactNative_CRUDTests
+@implementation reactNativeEcommerceAPPTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

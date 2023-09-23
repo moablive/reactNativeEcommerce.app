@@ -1,4 +1,4 @@
-package com.reactnative_crud;
+package com.reactnativeecommerceapp;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

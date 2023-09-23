@@ -1,4 +1,4 @@
-package com.reactnative_crud;
+package com.reactnativeecommerceapp;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "ReactNative_CRUD";
+    return "reactNativeEcommerceAPP";
   }
 
   /**

@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.reactnative_crud"
+    namespace "com.reactnativeecommerceapp"
     defaultConfig {
-        applicationId "com.reactnative_crud"
+        applicationId "com.reactnativeecommerceapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

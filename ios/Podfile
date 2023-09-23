@@ -25,7 +25,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'ReactNative_CRUD' do
+target 'reactNativeEcommerceAPP' do
   config = use_native_modules!
 
   # Flags change depending on the env values.
@@ -45,7 +45,7 @@ target 'ReactNative_CRUD' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'ReactNative_CRUDTests' do
+  target 'reactNativeEcommerceAPPTests' do
     inherit! :complete
     # Pods for testing
   end
