@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, SafeAreaView, StyleSheet } from 'react-native'; 
+import {Text, SafeAreaView, StyleSheet} from 'react-native';
 import styled from 'styled-components/native';
 
 const TextNew = styled.Text`
@@ -18,7 +18,7 @@ const App = () => {
 
 const styles = StyleSheet.create({
   container: {
-    color: 'blue'
+    color: 'blue',
   },
 });
 
